@@ -26,7 +26,7 @@
 ---
 
 ## Availability
-Open for freelance and project-based collaboration
-Contact via **GitHub Issues or Discussions**
+- Open for **freelance and project-based collaboration**
+- Contact via **GitHub Issues or Discussions**
 
 ---
