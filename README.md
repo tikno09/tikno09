@@ -14,7 +14,7 @@ Software Developer with experience in **Web & Mobile Development**, focused on b
 ### 💻 Backend
 ![PHP](https://img.shields.io/badge/PHP-8.3-blue?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange?logo=codeigniter)
+![Golang](https://img.shields.io/badge/Golang-blue?logo=go)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### 📱 Mobile
@@ -52,18 +52,6 @@ Software Developer with experience in **Web & Mobile Development**, focused on b
 - Docker-based deployment & CI/CD
 - Mobile app optimization
 - Vue.js + Laravel integration
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tikno09&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tikno09&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=tikno09&theme=tokyonight&row=1)
 
 ---
 
