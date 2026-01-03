@@ -14,7 +14,7 @@
 - PHP (Laravel)
 - Golang
 - REST API & Clean Architecture
-- MySQL
+- MySQL & Postgres
 
 **Frontend**
 - HTML, CSS, JavaScript
