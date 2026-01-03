@@ -1,4 +1,4 @@
-# Hi, I'm Popo
+# Hi, I'm Tikno
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tikno09&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/tikno09?style=flat)
