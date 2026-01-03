@@ -1,59 +1,32 @@
-# Hi, I'm Tikno 👋
+# Hi, I'm Popo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tikno09&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/tikno09?style=flat)
 
-**Full Stack Developer** with **6+ years of experience** in building and maintaining  
-**reliable, scalable, and maintainable web & mobile applications** for internal and business use.
+**Full Stack Developer** with **6+ years of experience** delivering  
+**scalable, production-ready web & mobile applications**.
 
 ---
 
-## Core Expertise
-
-**Backend**
-- PHP (Laravel)
-- Golang
-- REST API & Clean Architecture
-- MySQL & Postgres
-
-**Frontend**
-- HTML, CSS, JavaScript
-- Alpine.js
-- Vue.js
-
-**Mobile**
-- Flutter (Android & iOS)
-
-**DevOps**
-- Docker & Docker Compose
-- Nginx (Reverse Proxy & Load Balancer)
-- Linux (Ubuntu)
-- CI/CD fundamentals
+## Key Skills
+- **Backend:** PHP (Laravel), Golang, REST API
+- **Frontend:** JavaScript, Alpine.js, Vue.js
+- **Mobile:** Flutter (Android & iOS)
+- **DevOps:** Docker, Nginx, Linux (Ubuntu)
+- **Database:** Postgres & MySQL
 
 ---
 
-## Professional Focus
-- Designing clean and scalable system architecture
-- Developing high-performance backend services
-- Building production-ready mobile applications
-- Containerized deployment & infrastructure management
-- Long-term maintainability and code quality
+## Experience Highlights
+- Built and maintained **enterprise internal systems**
+- Developed **high-performance APIs** for mobile apps
+- Delivered **Flutter apps** to Android & iOS production
+- Managed **containerized deployments** with Docker
 
 ---
 
-## Selected Work
-- Internal enterprise applications
-- Helpdesk & ticketing systems
-- HR & attendance platforms
-- Analytics & outsourcing systems
-- Mobile utilities for internal teams
+## Availability
+Open for freelance and project-based collaboration
+Contact via **GitHub Issues or Discussions**
 
 ---
-
-## Contact
-- Open for freelance and project-based collaboration
-- Communication via GitHub Issues or Discussions
-
----
-
-_Engineering solutions with clarity, stability, and purpose._
